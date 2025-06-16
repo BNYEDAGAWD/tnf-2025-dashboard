@@ -43,7 +43,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/bnyedagawd/tnf-2025-dashboard.git
+git clone https://github.com/BNYEDAGAWD/tnf-2025-dashboard.git
 cd tnf-2025-dashboard
 
 # Start local server

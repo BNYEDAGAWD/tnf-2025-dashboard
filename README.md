@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Dashboard](https://YOUR_USERNAME.github.io/tnf-2025-dashboard/)**
+**[View Live Dashboard](https://bnyedagawd.github.io/tnf-2025-dashboard/)**
 
 ## 📊 Dashboard Features
 
@@ -43,7 +43,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/tnf-2025-dashboard.git
+git clone https://github.com/bnyedagawd/tnf-2025-dashboard.git
 cd tnf-2025-dashboard
 
 # Start local server
